@@ -21,7 +21,6 @@
 ### 🚀 DevOps & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
