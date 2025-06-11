@@ -18,63 +18,75 @@
 
 ## 💻 Tech Stack
 
-<!-- DevOps Core -->
-<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+### 🚀 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-<!-- CI/CD -->
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232c3e50.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nexus-%23000000.svg?&style=for-the-badge&logo=sonatype&logoColor=white"/>
+### ⚙️ CI/CD & Automation
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232c3e50.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nexus-%23000000.svg?&style=for-the-badge&logo=sonatype&logoColor=white"/>
+</p>
 
-<!-- Monitoring & Logging -->
-<img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK%20Stack-%23000000.svg?&style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Datadog-%234C4CFF.svg?&style=for-the-badge&logo=datadog&logoColor=white"/>
+### 📊 Monitoring & Logging
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-%23000000.svg?&style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-%234C4CFF.svg?&style=for-the-badge&logo=datadog&logoColor=white"/>
+</p>
 
-<!-- Scripting & Backend -->
-<img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+### 💻 Languages & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
 ---
 
-## ☁️ Cloud Platforms & AWS Services
+## ☁️ AWS Services
 
-<!-- AWS Core -->
-<img src="https://img.shields.io/badge/AWS-EC2-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-S3-%23FF9900.svg?&style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Lambda-%23FF9900.svg?&style=for-the-badge&logo=aws-lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-RDS-%23282A2D.svg?&style=for-the-badge&logo=amazon-rds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-DynamoDB-%230A1F22.svg?&style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Route%2053-%230066CC.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-VPC-%230073B3.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudFront-%23E47F1E.svg?&style=for-the-badge&logo=amazon-cloudfront&logoColor=white"/>
+### 🧩 Core Services
+<p>
+  <img src="https://img.shields.io/badge/AWS-EC2-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-S3-%23FF9900.svg?&style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Lambda-%23FF9900.svg?&style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-RDS-%23282A2D.svg?&style=for-the-badge&logo=amazon-rds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-DynamoDB-%230A1F22.svg?&style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-VPC-%230073B3.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Route%2053-%230066CC.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-CloudFront-%23E47F1E.svg?&style=for-the-badge&logo=amazon-cloudfront&logoColor=white"/>
+</p>
 
-<!-- AWS DevOps -->
-<img src="https://img.shields.io/badge/AWS-CodePipeline-%2341B883.svg?&style=for-the-badge&logo=aws-codepipeline&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CodeBuild-%232DC0E8.svg?&style=for-the-badge&logo=aws-codebuild&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CodeDeploy-%23F8991D.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudFormation-%23F38B00.svg?&style=for-the-badge&logo=aws-cloudformation&logoColor=white"/>
+### ⚙️ DevOps Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-CodePipeline-%2341B883.svg?&style=for-the-badge&logo=aws-codepipeline&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-CodeBuild-%232DC0E8.svg?&style=for-the-badge&logo=aws-codebuild&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-CodeDeploy-%23F8991D.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-CloudFormation-%23F38B00.svg?&style=for-the-badge&logo=aws-cloudformation&logoColor=white"/>
+</p>
 
-<!-- Monitoring & Security -->
-<img src="https://img.shields.io/badge/AWS-CloudWatch-%23285EAC.svg?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudTrail-%2321241F.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-IAM-%23005694.svg?&style=for-the-badge&logo=amazon-iam&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cognito-%23ED3E81.svg?&style=for-the-badge&logo=amazon-cognito&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-GuardDuty-%23125A8D.svg?&style=for-the-badge&logo=amazon-guardduty&logoColor=white"/>
+### 🔐 Monitoring & Security
+<p>
+  <img src="https://img.shields.io/badge/AWS-CloudWatch-%23285EAC.svg?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-CloudTrail-%2321241F.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-IAM-%23005694.svg?&style=for-the-badge&logo=amazon-iam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cognito-%23ED3E81.svg?&style=for-the-badge&logo=amazon-cognito&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-GuardDuty-%23125A8D.svg?&style=for-the-badge&logo=amazon-guardduty&logoColor=white"/>
+</p>
 
 ---
 
 ### 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/kavyvachhani](https://linkedin.com/in/kavyvachhani)
-
+- 🌐 LinkedIn: [linkedin.com/in/kavyvachhani](https://linkedin.com/in/kavyvachhani)
 
 ---
 
