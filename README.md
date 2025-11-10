@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kavy Vachhani!
 
-> 🛠 DevOps Intern @ Fxis AI | Cloud & Automation Enthusiast | AWS | CI/CD | Containerization
+> 🛠 DevOps Engginer @ Fxis AI | Cloud & Automation Enthusiast | AWS | CI/CD | Containerization
 
 🚀 Passionate about building robust, automated, and scalable infrastructure. Currently working as a DevOps Intern where I explore and implement full-stack DevOps solutions using a wide array of tools and cloud services.
 
